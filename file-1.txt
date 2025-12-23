@@ -1,0 +1,9 @@
+I am adding a text file locally.
+
+These are the tasks for this Day 2 Exercise:
+1. Create a new local repo
+2. Add a text file locally
+3. Create the remote repo on Github
+4. Push the local repo changes to Github
+5. Create a new file on Github
+6. Pull these changes from Github to the local repo
